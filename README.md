@@ -30,4 +30,10 @@ Here are some ideas to get you started:
       <li>My boyfriend says I am an eternal student. And I like that!</li>
 </ul>
 
+[![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleirbag04&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleirbag04&theme=cobalt&hide=scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+
 
