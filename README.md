@@ -26,7 +26,7 @@ Here are some ideas to get you started:
       <li>I am an Accountant.</li>
       <li>I have 😻😻😻 that came to Canada with me from Uruguay. </li>
       <li>I enjoy cooking.</li>
-      <li>I drink more coffe than I would like.</li>
+      <li>I drink more coffee than I would like.</li>
       <li>My boyfriend says I am an eternal student. And I like that!</li>
 </ul>
 
