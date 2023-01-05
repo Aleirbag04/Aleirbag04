@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍🎓 I am a Post Degree Diploma in Web and Mobile Development student at Langara College.
+👩‍🎓Completed a Post Degree Diploma in Web and Mobile Development at Langara College.
 
 💥 I consider myself a curious person who enjoys putting her creativity into every project I'm a part of.
 
