@@ -30,6 +30,15 @@ Here are some ideas to get you started:
       <li>My boyfriend says I am an eternal student. And I like that!</li>
 </ul>
 
+- 📫 How to reach me **gfernandezchaves@gmail.com**
+
+
+<p align="left">Connect with me: <a href="https://linkedin.com/in/gabrielafchaves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielafchaves" height="30" width="40" /></a> </p>
+
+
+
+
+
 [![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleirbag04&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleirbag04&theme=cobalt&hide=scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
